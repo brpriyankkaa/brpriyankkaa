@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brpriyankkaa)&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/brpriyankkaa)&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces_-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/brpriyankkaa)&nbsp;[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brpriyankkaa.cse2023@citchennai.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brpriyankkaa)&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/brpriyankkaa)&nbsp;[![Codeforces](https://img.shields.io/badge/Codeforces_-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/brpriyankkaa)&nbsp;[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brpriyankkaa.cse2023@citchennai.net)
 
 <br/>
 
@@ -102,20 +102,6 @@
 
 ---
 
-### `[ 09 ]` &nbsp; COMPETITIVE PROGRAMMING
-
-<div align="center"><br/>
-
-<img src="https://skillicons.dev/icons?i=leetcode" height="20"/>&nbsp;[![LC Rating](https://img.shields.io/badge/Rating-1835-e6edf3?style=flat-square&labelColor=0d1117)](https://leetcode.com/brpriyankkaa)&nbsp;[![LC Solved](https://img.shields.io/badge/Solved-550%2B-79c0ff?style=flat-square&labelColor=0d1117)](https://leetcode.com/brpriyankkaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=codeforces" height="20"/>&nbsp;[![CF Rating](https://img.shields.io/badge/Rating-1107-e6edf3?style=flat-square&labelColor=0d1117)](https://codeforces.com/profile/brpriyankkaa)&nbsp;[![CF Rank](https://img.shields.io/badge/Rank-Pupil-79c0ff?style=flat-square&labelColor=0d1117)](https://codeforces.com/profile/brpriyankkaa)
-
-<br/>
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-0d1117?style=flat-square&logo=codechef&logoColor=b07030)](https://codechef.com/users/brpriyankkaa)&nbsp;[![CC Stars](https://img.shields.io/badge/Stars-2%E2%98%85-e6edf3?style=flat-square&labelColor=0d1117)](https://codechef.com/users/brpriyankkaa)&nbsp;[![CC Solved](https://img.shields.io/badge/Solved-300%2B-79c0ff?style=flat-square&labelColor=0d1117)](https://codechef.com/users/brpriyankkaa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SkillRack](https://img.shields.io/badge/SkillRack-0d1117?style=flat-square&logo=checkmarx&logoColor=00C853)](https://www.skillrack.com)&nbsp;[![SR Solved](https://img.shields.io/badge/Solved-600%2B-79c0ff?style=flat-square&labelColor=0d1117)](https://www.skillrack.com)
-
-<br/>
-</div>
-
----
 
 <div align="center">
 
